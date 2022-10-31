@@ -5,8 +5,6 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-#### Tecnologias:
-
 ###### BACK-END
 
 ![Badge Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
