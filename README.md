@@ -16,7 +16,7 @@ Its function is to provide a community-motorola connection interface throught pu
 ![Badge Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Badge Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###### ANALYTICS
+###### [ANALYTICS](https://datastudio.google.com/reporting/4fc32df9-dc35-4ae3-8f19-a5fb83bc3cfd)
 
 ![Badge Talend Open Studio](https://img.shields.io/badge/Talend%20Open%20Studio-F2676A?style=for-the-badge&logo=talend&logoColor=white)
 ![Badge Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E8E8E8?style=for-the-badge&logo=google)
