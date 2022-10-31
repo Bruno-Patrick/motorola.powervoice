@@ -5,12 +5,10 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
-#### Usado durante o projeto:
+#### Para fazermos o projeto, usamos:
 
-Gerenciamento do projeto: `Metodologias ágeis`,`SCRUM`
+Para gerenciamento do projeto e equipe: `Metodologias ágeis`,`SCRUM`
 
-##### Tecnologias
-
-
+###### Como tecnologias:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
