@@ -20,3 +20,7 @@ Its function is to provide a community-motorola connection interface throught pu
 
 ![Badge Talend Open Studio](https://img.shields.io/badge/Talend%20Open%20Studio-F2676A?style=for-the-badge&logo=talend&logoColor=white)
 ![Badge Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E8E8E8?style=for-the-badge&logo=google)
+
+###### [DEPLOY](https://motovoice.vercel.app/features)
+
+![Badge HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
