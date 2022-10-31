@@ -3,7 +3,7 @@
 
 Sua função é fornecer uma interface de conexão entre a comunidade e a Motorola através de publicações que podem ser sugestões de novas funcionalidades para futuros lançamentos, críticas ou elogios.
 
-[Badge em Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 #### Usado durante o projeto:
 
