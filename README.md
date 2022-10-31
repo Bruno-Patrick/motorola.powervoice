@@ -20,4 +20,4 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 ###### ANALYTICS
 
-![Badge Talend Open Studio](https://img.shields.io/badge/Talend-F2676A?style=for-the-badge&logo=talend&logoColor=white)
+![Badge Talend Open Studio](https://img.shields.io/badge/Talend%20Open%20Studio-F2676A?style=for-the-badge&logo=talend&logoColor=white)
