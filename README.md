@@ -4,3 +4,5 @@
 Sua função é fornecer uma interface de conexão entre a comunidade e a Motorola através de publicações que podem ser sugestões de novas funcionalidades para futuros lançamentos, críticas ou elogios.
 
 #### Usado durante o projeto:
+
+Gerenciamento do projeto:`Metodologias ágeis`,`SCRUM`
