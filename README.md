@@ -7,4 +7,6 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 Gerenciamento do projeto: `Metodologias ágeis`,`SCRUM`
 
-##### Tecnologias:
+##### Tecnologias
+
+Back-end: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
