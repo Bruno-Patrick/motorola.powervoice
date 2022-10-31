@@ -3,6 +3,8 @@
 
 Sua função é fornecer uma interface de conexão entre a comunidade e a Motorola através de publicações que podem ser sugestões de novas funcionalidades para futuros lançamentos, críticas ou elogios.
 
+It's function is to provide a community-motorola connection interface might can be about new features of future products, criticisms or praises.
+
 ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 ###### BACK-END
