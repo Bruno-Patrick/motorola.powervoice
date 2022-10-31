@@ -5,7 +5,7 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
-#### Para fazermos o projeto, usamos:
+### Para fazermos o projeto, usamos:
 
 **gerenciamento do projeto e equipe:** `Metodologias ágeis`,`SCRUM`
 
