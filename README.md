@@ -5,4 +5,6 @@ Sua função é fornecer uma interface de conexão entre a comunidade e a Motoro
 
 #### Usado durante o projeto:
 
-Gerenciamento do projeto:`Metodologias ágeis`,`SCRUM`
+Gerenciamento do projeto: `Metodologias ágeis`,`SCRUM`
+
+##### Tecnologias:
