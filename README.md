@@ -17,7 +17,7 @@ Its function is to provide a community-motorola connection interface throught pu
 ###### [ANALYTICS](https://datastudio.google.com/reporting/4fc32df9-dc35-4ae3-8f19-a5fb83bc3cfd)
 
 > ![Badge Talend Open Studio](https://img.shields.io/badge/Talend%20Open%20Studio-F2676A?style=for-the-badge&logo=talend&logoColor=white)
-> <a href="[https://motovoice.vercel.app/features](https://datastudio.google.com/reporting/4fc32df9-dc35-4ae3-8f19-a5fb83bc3cfd)" alt="Data Studio Analytics"/>![Badge Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E8E8E8?style=for-the-badge&logo=google)
+> <a href="[https://motovoice.vercel.app/features](https://datastudio.google.com/reporting/4fc32df9-dc35-4ae3-8f19-a5fb83bc3cfd)" alt="Data Studio Analytics"/> ![Badge Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-E8E8E8?style=for-the-badge&logo=google)
 
 ###### [DEPLOY](https://motovoice.vercel.app/features)
 
