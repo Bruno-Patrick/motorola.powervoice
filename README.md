@@ -10,13 +10,11 @@ Its function is to provide a community-motorola connection interface throught pu
 ![Badge Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Badge Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Badge MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-</br> Repositório
 
-###### FRONT-END
+###### [FRONT-END](https://github.com/Bruno-Patrick/motorola.powervoice/tree/main/powervoice-frontend)
 
 ![Badge Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Badge Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-</br> Repositório [**front-end**](https://github.com/Bruno-Patrick/motorola.powervoice/tree/main/powervoice-frontend)
 
 ###### ANALYTICS
 
