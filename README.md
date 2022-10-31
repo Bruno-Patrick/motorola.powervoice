@@ -1,5 +1,5 @@
 # Powervoice Application
-**powervoice** is a Java application developed throughout [**Web Academy's**](http://200.129.173.65/) hands-on, that's a training of Federal University of Acre, Motorola Brazil and Eldorado Research Institute.
+**powervoice** is a Java application developed throughout [**Web Academy's**](http://200.129.173.65/) hands-on, that's a training of Universidade Federal do Acre, Motorola Brasil and Instituto de Pesquisas Eldorado.
 
 Sua função é fornecer uma interface de conexão entre a comunidade e a Motorola através de publicações que podem ser sugestões de novas funcionalidades para futuros lançamentos, críticas ou elogios.
 
