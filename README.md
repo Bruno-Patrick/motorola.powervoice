@@ -30,7 +30,7 @@ Its function is to provide a community-motorola connection interface throught pu
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Bruno Patrick no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/81782238?v=4" width="100px;" alt="Foto do Bruno Patrick no GitHub"/><br>
         <sub>
           <b>Bruno Patrick</b>
         </sub>
