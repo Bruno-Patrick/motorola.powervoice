@@ -1,7 +1,7 @@
 # Powervoice Application ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
-**powervoice** is a Java application developed throughout [**Web Academy's**](http://200.129.173.65/) hands-on, that's a training of Universidade Federal do Acre, Motorola Brasil and Instituto de Pesquisas Eldorado.
+> **powervoice** is a Java application developed throughout [**Web Academy's**](http://200.129.173.65/) hands-on, that's a training of Universidade Federal do Acre, Motorola Brasil and Instituto de Pesquisas Eldorado.
 
-Its function is to provide a community-motorola connection interface throught publications that might be worth it for new features or reviews..
+> Its function is to provide a community-motorola connection interface throught publications that might be worth it for new features or reviews..
 
 ###### [BACK-END](https://github.com/Bruno-Patrick/motorola.powervoice/tree/main/powervoice)
 
@@ -22,8 +22,3 @@ Its function is to provide a community-motorola connection interface throught pu
 ###### [DEPLOY](https://motovoice.vercel.app/features)
 
 ![Badge HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-#### Colaborators
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi"/>(https://github.com/Bruno-Patrick)
