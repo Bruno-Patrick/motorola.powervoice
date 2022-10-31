@@ -26,4 +26,4 @@ Its function is to provide a community-motorola connection interface throught pu
 
 #### Colaborators
 
-![<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi"/>](https://github.com/Bruno-Patrick)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whi"/>(https://github.com/Bruno-Patrick)
