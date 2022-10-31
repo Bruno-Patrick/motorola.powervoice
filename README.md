@@ -3,10 +3,14 @@
 
 Sua função é fornecer uma interface de conexão entre a comunidade e a Motorola através de publicações que podem ser sugestões de novas funcionalidades para futuros lançamentos, críticas ou elogios.
 
+[Badge em Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
 #### Usado durante o projeto:
 
 Gerenciamento do projeto: `Metodologias ágeis`,`SCRUM`
 
 ##### Tecnologias
 
-Back-end: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
