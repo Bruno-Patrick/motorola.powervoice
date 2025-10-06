@@ -1,7 +1,8 @@
 # Powervoice Application ![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
-**powervoice** is a Java application developed throughout [**Web Academy's**](http://200.129.173.65/) hands-on, that's a training of Universidade Federal do Acre, Motorola Brasil and Instituto de Pesquisas Eldorado.
 
-Its function is to provide a community-motorola connection interface throught publications that might be worth it for new features or reviews..
+**Powervoice** is a Java application developed during the [**Web Academy**](http://200.129.173.65/) hands-on training program, organized by Universidade Federal do Acre, Motorola Brasil, and Instituto de Pesquisas Eldorado.
+
+Its main purpose is to provide an interface that connects the community with Motorola through publications that can contribute ideas for new features or provide valuable feedback.
 
 ###### [BACK-END](https://github.com/Bruno-Patrick/motorola.powervoice/tree/main/powervoice)
 
